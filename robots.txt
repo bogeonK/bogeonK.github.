@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://bogeonK.github.io/al-folio/sitemap.xml
